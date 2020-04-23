@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milestone2", "Milestone2\Milestone2.csproj", "{DC04994D-FF86-4AA4-A6ED-EFDF25A156CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC04994D-FF86-4AA4-A6ED-EFDF25A156CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC04994D-FF86-4AA4-A6ED-EFDF25A156CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC04994D-FF86-4AA4-A6ED-EFDF25A156CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC04994D-FF86-4AA4-A6ED-EFDF25A156CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24DFFC0-8EF5-4B05-B1D1-5CC3BAC4EA30}
+	EndGlobalSection
+EndGlobal

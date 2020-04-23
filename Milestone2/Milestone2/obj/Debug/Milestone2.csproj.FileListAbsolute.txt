@@ -1,0 +1,9 @@
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.exe.config
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.exe
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.pdb
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csprojAssemblyReference.cache
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.SongInventoryForm.resources
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.Properties.Resources.resources
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csproj.GenerateResource.cache
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.exe
+C:\Users\Jeanna Maye Benitez\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.pdb
